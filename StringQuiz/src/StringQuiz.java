@@ -7,6 +7,7 @@ public class StringQuiz
 			{
 				// TODO Auto-generated method stub
 				// coding is cool, help im struggling
+				// i love
 				Scanner stringInput = new Scanner (System.in);
 				
 				System.out.println("Pick two words please");
